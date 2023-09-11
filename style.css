@@ -1,4 +1,27 @@
-.image {
+body {
+    display: flex;
     
+    justify-content: center;
+    min-height: 100vh; /* assure que la hauteur de l'écran est couverte /
+    margin: 0; / Supprime les marges par défaut du body */
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
+
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    height: auto;
+}
+
+div p {
+
+    width: 640px;
+    text-align: justify;
+}
+
