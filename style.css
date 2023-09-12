@@ -6,6 +6,11 @@ body {
     margin: 0; / Supprime les marges par défaut du body */
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: crimson;
+    background: linear-gradient(315deg, rgba(223,255,224,1) 23%, rgba(163,255,158,1) 50%, rgba(224,255,220,1) 100%);
+    
+    
     
 }
 
